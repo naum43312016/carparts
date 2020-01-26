@@ -1,0 +1,71 @@
+@media (min-width: 992px) {
+  #brandName {
+    color: rgb(1,46,92);
+    font-size: 32px;
+    font-family: Andika, sans-serif;
+  }
+}
+
+@media (min-width: 300px) {
+  .col.align-self-center.order-2 {
+    display: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .col.align-self-center.order-2 {
+    display: block;
+  }
+}
+
+#sign-cart {
+}
+
+.icon-right-main {
+  color: rgb(10,1,61);
+  font-size: 24px;
+  font-family: Andika, sans-serif;
+}
+
+.dropdown.dropdown-car-picker {
+  width: 100%;
+  height: 44px;
+  padding-top: 3px;
+  font-size: 16px;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.go-btn {
+}
+
+.fa.fa-star.icon-reviews {
+  color: rgb(255,214,0);
+}
+
+.Quantity-select-span {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.btn.btn-warning.btn-add-to-cart.raised.round {
+  width: 100%;
+  margin-top: 5px;
+}
+
+.highlist-p {
+  color: rgb(0,0,0);
+  font-size: 15px;
+}
+
+.policy-w {
+  color: rgb(0,0,0);
+  font-size: 16px;
+}
+
+.description-waranty {
+  color: rgb(0,0,0);
+}
+

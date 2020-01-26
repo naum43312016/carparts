@@ -1,0 +1,27 @@
+.border-prettyBrands {
+  border: 2px solid #000;
+  border-radius: 25px;
+  /*background: #73AD21;*/
+  /*padding: 20px;*/
+  width: 100px;
+}
+
+.border-prettyBrands {
+  border: 3px solid #000;
+  border-radius: 25px;
+  /*background: #73AD21;*/
+  /*padding: 20px;*/
+  width: 100px;
+}
+
+.border-pretty {
+  border: 2px solid #fff;
+  border-radius: 25px;
+  /*background: #73AD21;*/
+  /*padding: 20px;*/
+  width: 85px;
+}
+
+.btn.btn-link.border-pretty {
+}
+
